@@ -28,7 +28,7 @@ Container _getCard() {
     width:350,
     height:200,
     decoration: BoxDecoration(
-      color:Colors.deepOrange,
+      color:Colors.purple,
       borderRadius: BorderRadius.circular(4.5)
     )
   );
